@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bkdeekshit
 - 👀 I’m interested in implementing machine learning and deep learning models for various problems in datascience
 - 🌱 I’m currently doing PhD in AI 
-- 💞️ I’m looking to collaborate with industries looking for datascience solutions
+- 💞️ I’m looking to collaborate with industries regarding datascience applications 
 - 📫 you can reach me thorugh email bkdeekshitkumar@gmail.com or mobile +91 9676240407
 
 <!---
